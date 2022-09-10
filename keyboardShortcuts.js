@@ -1,0 +1,22 @@
+let myShorcuts = {
+  1: "alt + tab",
+  2: "windows + d 'to go to desktop'",
+  3: "windows + shift + s",
+  4: "ctrl + shift + t",
+  5: "ctrl + backspace + erase",
+  6: "ctrl + t",
+  7: "ctrl + n",
+  8: "ctrl + av pag"              
+  9: "alt + '+' || alt + '-'",
+  10: "ctrl + f4 'closes active page'",
+  11: "f 'full-screen videos on youtube'",
+  12: "ctrl + r || f5 'refresh the page'",
+  13: "f6 to type on the link",
+  14: "alt + space + n ''",
+  15: "alt + space + m ''",
+  16: "ctrl + e 'select all just like ctrl + a in programming'",
+  17: "f2 rename a file",
+  18: "ctrl + p 'open a file in PROGRAMING'",
+  19: "ctrl + shift + f 'find a word in the entire app'",
+  20: "shift + arrows 'select lines'",
+};
