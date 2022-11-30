@@ -39,3 +39,8 @@ let git = {
 
 //git log ... to see the list of all commits  //git log --oneline
 //git reset --hard HEAD^ .... undo last commit ... opposite to git commit -m "myMessagge"
+
+// ssh vs http
+// git commit -a -m " Commit Message"
+// To undo git add before a commit, run git reset <file> or git reset to unstage all changes.
+// https://www.freecodecamp.org/news/how-to-undo-a-git-add/

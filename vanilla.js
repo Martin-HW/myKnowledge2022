@@ -11,3 +11,11 @@
 //   const list = document.getElementById("myDIV").classList;
 //   list.add("myStyle");
 // }
+
+// git course
+// testing course
+// algorithms
+// vanilla js own apps
+// mern apps
+// english practice
+// informatics test
