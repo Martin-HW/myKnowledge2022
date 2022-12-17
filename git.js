@@ -44,3 +44,25 @@ let git = {
 // git commit -a -m " Commit Message"
 // To undo git add before a commit, run git reset <file> or git reset to unstage all changes.
 // https://www.freecodecamp.org/news/how-to-undo-a-git-add/
+
+// git config -l //all the info of my branch
+// .gitignore
+// git commit -am "my-message"
+// git merge
+// git log
+// git push origin (myBranch)
+//git log --oneline --decorate --all --graph
+
+//fer herrera
+// gist
+// activitusBar
+// terminal
+// git --version(double dash means we're gonna type an entire word)
+// git help
+// git help commit
+// :q
+// git --help config
+// git config --global user.name "Fer her"
+// git config --global user.email "Fer her"
+// git config --global e
+//:wq!

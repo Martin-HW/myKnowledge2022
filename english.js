@@ -19,3 +19,6 @@ let six =
 // deputies
 // jury
 // tainted
+// The manager's incompetence hindered the progress of the project.
+// Who's that beefy young man? He looks like a body builder.
+// The American diplomat met with her Chinese counterpart to discuss the problem.
