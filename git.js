@@ -73,3 +73,4 @@ let git = {
 // (soy programadora git reset)
 // git checkout -- . //goes to last commmit
 // video 12
+kikinnnnnn;
