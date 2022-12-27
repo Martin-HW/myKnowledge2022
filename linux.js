@@ -9,4 +9,5 @@
 // cd ~/dir2
 // touch
 // cat file1.txt //shows the content of a file
- 
+
+// psudo apt-get update

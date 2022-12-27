@@ -53,16 +53,23 @@ let git = {
 // git push origin (myBranch)
 //git log --oneline --decorate --all --graph
 
-//fer herrera
+//----------------------------------------------------------fer herrera----------------------//
+//----------------------------------------------------------fer herrera----------------------//
+//----------------------------------------------------------fer herrera----------------------//
 // gist
-// activitusBar
+// activitusBar download
 // terminal
 // git --version(double dash means we're gonna type an entire word)
 // git help
-// git help commit
 // :q
 // git --help config
 // git config --global user.name "Fer her"
-// git config --global user.email "Fer her"
-// git config --global e
-//:wq!
+// git config --global user.email "Ferher@gmail.com"
+// git config --global -e
+// :wq!
+// git init
+// git add .
+// git reset myFileName.js
+// (soy programadora git reset)
+// git checkout -- . //goes to last commmit
+// video 12
