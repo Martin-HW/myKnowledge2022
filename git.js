@@ -73,4 +73,25 @@ let git = {
 // (soy programadora git reset)
 // git checkout -- . //goes to last commmit
 // video 12
-kikinnnnnn;
+// git branch
+// git branch -m master main
+// git config --global init.defaultBranch <branchName>
+// README.md
+// git reset README.md (opposite to git add .)
+// git commit -am "Readme actualizado"
+// git log
+// HEAD ????
+// open file + discard changes + stage changes icons
+// git rm --cached <file> ??????? (to unstage)
+// git reset index.html (to unstage)
+// git add /js*.js staege all the files inside a /js folder ending with .js
+// .gitkeep
+// git add css/ (stage everything inside the css folder)
+// source control vs code ?????
+// git status --short
+// git config --global alias.s
+// aliases ???
+// git log --oneline
+// git log --oneline --decorate --all --graph
+// gist ???
+// start on video number 18
