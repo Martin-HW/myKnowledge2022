@@ -95,3 +95,12 @@ let git = {
 // git log --oneline --decorate --all --graph
 // gist ???
 // start on video number 18
+// git diff
+// git diff --staged
+// git commit --amend -m "Instalaciones actualizadas"
+// git reset --soft HEAD^ ????
+// HEAD^^ || HEAD~2 (2commits behind)
+// git reset --hard HEAD^^
+// git reset --mixed HEAD^^ (unstaged area)
+// git reset --soft HEAD^^ (staged area)
+// (soy programadora)
