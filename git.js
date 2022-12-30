@@ -99,8 +99,13 @@ let git = {
 // git diff --staged
 // git commit --amend -m "Instalaciones actualizadas"
 // git reset --soft HEAD^ ????
+// (soy programadora)
 // HEAD^^ || HEAD~2 (2commits behind)
 // git reset --hard HEAD^^
 // git reset --mixed HEAD^^ (unstaged area)
 // git reset --soft HEAD^^ (staged area)
 // (soy programadora)
+// git reset --soft 123abc (commitID)
+// git mv one.js
+// git rm one.js
+// git reflog
