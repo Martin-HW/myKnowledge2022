@@ -22,3 +22,4 @@ let six =
 // The manager's incompetence hindered the progress of the project.
 // Who's that beefy young man? He looks like a body builder.
 // The American diplomat met with her Chinese counterpart to discuss the problem.
+// After her terrible accident, we weren't sure if she would pull through, but she did, thank God!
