@@ -13,5 +13,14 @@ let menuGithub_05 = "https://github.com/Martin-HW/menuMartinHere";
 let tabsGithub_06 = "https://github.com/Martin-HW/tabsMartinHere";
 let tabsVercel_06 = "https://tabs-martin-here.vercel.app/";
 
+let sliderVercel_07 = "https://slider-martin-here.vercel.app/";
+let sliderGithub_07 = "https://github.com/Martin-HW/sliderMartinHere";
+
+let loremGithub_08 = "https://github.com/Martin-HW/loremIpsumMartinHere";
+let loremVercel_08 = "https://lorem-ipsum-martin-here.vercel.app/";
+
+let searchGithub_22 = "https://github.com/Martin-HW/searchMartinHere";
+let searchVercel_22 = "https://search-martin-here.vercel.app/";
+
 let quizGithub_23 = "https://github.com/Martin-HW/quizMartinHere";
 let quizVercel_23 = "https://quiz-martin-here.vercel.app/";
