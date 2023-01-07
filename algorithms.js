@@ -373,17 +373,36 @@
 //   // your code here
 // }
 
-const one = {
-  name: "martin",
-};
+// const one = {
+//   name: "martin",
+// };
 
-const two = {
-  name: "ivan",
-};
+// const two = {
+//   name: "ivan",
+// };
 
-const funct1 = (country, age) => {
-  return `My name is ${one.name}, my country is ${country}, my age is ${age}`;
-};
+// const funct1 = (country, age) => {
+//   return `My name is ${one.name}, my country is ${country}, my age is ${age}`;
+// };
 
-const kikin = funct1.bind(two);
-console.log(kikin("colombia", 34));
+// const kikin = funct1.bind(two);
+// console.log(kikin("colombia", 34));
+
+// const one = (num1, num2) => {
+//   return num1 + num2;
+// };
+
+// console.log(one(20, 5)); //25
+// console.log(one(15, 9)); //24
+// console.log(one(100, 4)); //104
+// dfdiufdiunv;
+// sadvwufbsdiuvbs;
+// saududbiub;
+// const one = () => {
+//   sdsfsdfsdf;
+//   sfsdfsdf;
+//   console.log("hello");
+// };
+// dfidnfuienfco;
+// one();
+// one();
