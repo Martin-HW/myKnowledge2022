@@ -37,6 +37,9 @@ let groceryBudVercel_10 = "https://grocery-bud-martin-here.vercel.app/";
 let navbarMartinGithub_11 = "https://github.com/Martin-HW/navbarMartinHere";
 let navbarMartinVercel_11 = "https://navbar-martin-here.vercel.app/";
 
+let stripeMartinGitHub_13 = "https://github.com/Martin-HW/stripeMartinHere";
+let stripeMartinVercel_13 = "https://stripe-martin-here.vercel.app/";
+
 /**************************************************************************************************/
 /**************************************************************************************************/
 /**************************************************************************************************/
