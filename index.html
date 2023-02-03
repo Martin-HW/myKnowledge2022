@@ -8,8 +8,38 @@
   </head>
   <body>
     <h1>javascript knowledge</h1>
+    <ul>
+      <li>kikin</li>
+      <li>kikin</li>
+      <li>kikin</li>
+    </ul>
     <!-- <script type="text/javascript" src="index.js"></script> -->
-    <script type="text/javascript" src="algorithms.js"></script>
+    <!-- <script type="text/javascript" src="algorithms.js"></script> -->
     <!-- <script type="text/javascript" src="regex.js"></script> -->
+    <script>
+      // const one = document.getElementsByTagName("ul");
+      console.log(123456789);
+
+      const obtenerLocalStorage = () => {
+        const nombreConsole = localStorage.getItem("nombre");
+        const personaConsole = JSON.parse(localStorage.getItem("persona"));
+        console.log(nombreConsole);
+        console.log(personaConsole);
+      };
+
+      const guardarLocalStorage = () => {
+        let persona = {
+          nombre: "martin",
+          age: 34,
+          job: "full-stack dev",
+          skills: ["js", "react", "node js", "typescript"],
+        };
+        let nombre = "baby martin";
+        localStorage.setItem("persona", JSON.stringify(persona));
+        localStorage.setItem("nombre", nombre);
+      };
+      guardarLocalStorage();
+      obtenerLocalStorage();
+    </script>
   </body>
 </html>

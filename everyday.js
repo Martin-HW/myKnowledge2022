@@ -7,3 +7,6 @@ app.use(express.urlencoded({ extended: false }));
 // process.exit(1);
 // asyncHandler
 // stack: process.env.NODE_ENV === "production" ? null : err.stack,
+
+// event loop
+// localhost;
